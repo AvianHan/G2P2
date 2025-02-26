@@ -1,0 +1,52 @@
+{
+  "model_parameters": {
+    "gnn_input": 128,
+    "gnn_hidden": 128,
+    "gnn_output": 128,
+    "transformer_layers": 12,
+    "transformer_width": 512,
+    "transformer_heads": 8,
+    "embed_dim": 128
+  },
+  "training_parameters": {
+    "coop_n_ctx": 4,
+    "tried_coop_n_ctx": [
+      2,
+      4,
+      8,
+      16
+    ],
+    "prompt_lr": 0.01,
+    "tried_prompt_lr": [
+      0.001,
+      0.005,
+      0.01,
+      0.05
+    ],
+    "ft_epoch": 50,
+    "tried_ft_epoch": [
+      20,
+      50,
+      100
+    ],
+    "batch_size": 64,
+    "tried_batch_size": [
+      32,
+      64,
+      128
+    ],
+    "patience": 10,
+    "tried_patience": [
+      5,
+      10,
+      15
+    ],
+    "zero_shot_template": "a ",
+    "tried_templates": [
+      "",
+      "a ",
+      "paper of "
+    ],
+    "max_samples_per_class": 200
+  }
+}

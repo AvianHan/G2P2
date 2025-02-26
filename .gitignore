@@ -1,0 +1,111 @@
+# --- OS-generated files ---
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs*.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*.swp
+*.swo
+*~
+
+
+# --- IDE configurations ---
+# VS Code
+.vscode/
+!.vscode/settings.json
+
+# Vim
+*.swp
+*.swo
+*.un~
+
+
+# --- Python ---
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Virtual environments
+venv/
+env/
+pythonenv*
+
+# Package files
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Environments
+.env
+.env.local
+
+# Package manager locks
+Pipfile.lock
+poetry.lock
+
+
+# --- LaTeX ---
+# Core auxiliary files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Bibliography
+*.bbl
+*.blg
+
+# Indexes
+*.idx
+*.ilg
+*.ind
+
+# Figures
+*.nav
+*.snm
+*.vrb
+
+# Temporary files
+*.fdb_latexmk
+*.fls
+*.xdv
+*.lof
+*.lot
+
+
+# --- Output files ---
+# Uncomment to ignore PDFs (common for version control)
+# *.pdf
+
+
+# --- General ---
+# Logs and databases
+*.log
+*.sqlite
+
+# Compression artifacts
+*.gz
+*.zip
+*.tar
+*.tgz
+
+# Local development files
+*.local
+
+
+
+
+
+# specific
+model_checkpoints/

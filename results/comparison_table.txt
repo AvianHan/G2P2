@@ -1,0 +1,5 @@
+Method & Accuracy (mean ± std) \\
+\midrule
+G2P2 & 63.52 ± 2.89 \\
+G2P2 + d & 65.28 ± 3.12 \\
+Pseudo-label approach & 0.68 ± 0.03 \\

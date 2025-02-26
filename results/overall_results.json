@@ -1,0 +1,1768 @@
+{
+  "accuracy_mean": 0.6814445534453176,
+  "accuracy_std": 0.02860676935325505,
+  "f1_mean": 0.6209032751364648,
+  "f1_std": 0.01796378429966722,
+  "split_results": [
+    {
+      "split": 0,
+      "seed": 1,
+      "accuracy_mean": 0.6902073303253091,
+      "accuracy_std": 0.10083289257295035,
+      "f1_mean": 0.6290593187758925,
+      "f1_std": 0.10255791360651328,
+      "task_accuracies": [
+        0.5609939759036144,
+        0.6188068756319515,
+        0.827460510328068,
+        0.8102025506376594,
+        0.6302616609783845,
+        0.7022900763358778,
+        0.6619190404797601,
+        0.6835051546391753,
+        0.698371335504886,
+        0.6167621776504298,
+        0.5136540962288687,
+        0.8246656760772659,
+        0.8238021638330757
+      ],
+      "task_f1_scores": [
+        0.5488331596779111,
+        0.5089311682875562,
+        0.7823204972925915,
+        0.7668226999493978,
+        0.5066293165596626,
+        0.658986985891722,
+        0.5493144144372912,
+        0.608595434937057,
+        0.6359059937719774,
+        0.5844453101731139,
+        0.5085291908835302,
+        0.7472854447554944,
+        0.7711715274692974
+      ]
+    },
+    {
+      "split": 1,
+      "seed": 2,
+      "accuracy_mean": 0.7331196725541856,
+      "accuracy_std": 0.08011525101651741,
+      "f1_mean": 0.6525473838139695,
+      "f1_std": 0.09848367935667181,
+      "task_accuracies": [
+        0.6243875884594448,
+        0.8003182179793158,
+        0.5817236255572066,
+        0.785765636232926,
+        0.737062937062937,
+        0.780466724286949,
+        0.746268656716418,
+        0.8342541436464088,
+        0.7647790914747977,
+        0.8079561042524005,
+        0.7784552845528455,
+        0.6914986853637161,
+        0.5976190476190476
+      ],
+      "task_f1_scores": [
+        0.547349064888041,
+        0.7654598172382547,
+        0.5466595773108286,
+        0.6031914714207344,
+        0.6870183043936089,
+        0.6960855651652338,
+        0.6124559767283224,
+        0.8047176853219618,
+        0.7436120996527869,
+        0.7485248328579462,
+        0.7007722083601753,
+        0.5479335368431413,
+        0.47933584940056884
+      ]
+    },
+    {
+      "split": 2,
+      "seed": 4,
+      "accuracy_mean": 0.653632371853254,
+      "accuracy_std": 0.17921648655245906,
+      "f1_mean": 0.6046045995854376,
+      "f1_std": 0.17099683137722552,
+      "task_accuracies": [
+        0.3845528455284553,
+        0.8602554470323065,
+        0.7175018155410312,
+        0.5030674846625767,
+        0.8419889502762431,
+        0.5309446254071661,
+        0.8372365339578455,
+        0.49160671462829736,
+        0.6190095846645367,
+        0.8731778425655977,
+        0.41823899371069184,
+        0.5453834115805947,
+        0.8742565845369583
+      ],
+      "task_f1_scores": [
+        0.4140937817868493,
+        0.6947730135652936,
+        0.67083929237243,
+        0.3491808845102943,
+        0.7731592087516075,
+        0.5005531220786816,
+        0.7583978297775043,
+        0.49224981381656985,
+        0.5089616557157581,
+        0.8641564471055496,
+        0.40183087267849177,
+        0.560626253493752,
+        0.8710376189579053
+      ]
+    },
+    {
+      "split": 3,
+      "seed": 8,
+      "accuracy_mean": 0.6695416852336903,
+      "accuracy_std": 0.12098707570122309,
+      "f1_mean": 0.6105328519667954,
+      "f1_std": 0.12693099862914084,
+      "task_accuracies": [
+        0.5975994946304485,
+        0.7247557003257329,
+        0.8709677419354839,
+        0.5622317596566524,
+        0.7182692307692308,
+        0.4940867279894875,
+        0.7648017381857686,
+        0.8266129032258065,
+        0.45161290322580644,
+        0.6642174871418075,
+        0.6602564102564102,
+        0.7710084033613446,
+        0.597621407333994
+      ],
+      "task_f1_scores": [
+        0.5830306674349017,
+        0.7126665264218394,
+        0.8074585779394132,
+        0.4830604303487222,
+        0.713111147266132,
+        0.442584744925737,
+        0.7188489173338709,
+        0.6541082439497468,
+        0.3999390045543266,
+        0.5287643374092182,
+        0.6511456890237317,
+        0.7588791521627716,
+        0.4833296367979293
+      ]
+    },
+    {
+      "split": 4,
+      "seed": 16,
+      "accuracy_mean": 0.660721707260149,
+      "accuracy_std": 0.1305782800629982,
+      "f1_mean": 0.6077722215402294,
+      "f1_std": 0.10837770343326697,
+      "task_accuracies": [
+        0.802827965435978,
+        0.716852010265184,
+        0.46106870229007635,
+        0.488929889298893,
+        0.7054735013032146,
+        0.7471830985915493,
+        0.8107142857142857,
+        0.5656689065363469,
+        0.4836193447737909,
+        0.6604886267902275,
+        0.8927038626609443,
+        0.6421568627450981,
+        0.6116951379763469
+      ],
+      "task_f1_scores": [
+        0.6978363584965871,
+        0.629477997563658,
+        0.5058766188239063,
+        0.47621707017933124,
+        0.6762290574401671,
+        0.6583432264987162,
+        0.6812606399544322,
+        0.5556506888657781,
+        0.4357554928466671,
+        0.5363812573171064,
+        0.8533952897032103,
+        0.5433391532137237,
+        0.6512760291196964
+      ]
+    }
+  ],
+  "task_results": [
+    {
+      "split": 0,
+      "seed": 1,
+      "task_idx": 0,
+      "task_classes": [
+        "data structures  algorithms and theory, computational geometry",
+        "data structures  algorithms and theory, computational complexity",
+        "data structures  algorithms and theory, parallel",
+        "data structures  algorithms and theory, logic",
+        "artificial intelligence, nlp"
+      ],
+      "accuracy": 0.5609939759036144,
+      "f1": 0.5488331596779111,
+      "pseudo_label_sampling": {
+        "sampled_count": 833,
+        "class_distribution": [
+          200,
+          200,
+          200,
+          200,
+          33
+        ]
+      }
+    },
+    {
+      "split": 0,
+      "seed": 1,
+      "task_idx": 1,
+      "task_classes": [
+        "programming, compiler design",
+        "artificial intelligence, expert systems",
+        "artificial intelligence, theorem proving",
+        "human computer interaction, cooperative",
+        "programming, semantics"
+      ],
+      "accuracy": 0.6188068756319515,
+      "f1": 0.5089311682875562,
+      "pseudo_label_sampling": {
+        "sampled_count": 748,
+        "class_distribution": [
+          200,
+          23,
+          190,
+          135,
+          200
+        ]
+      }
+    },
+    {
+      "split": 0,
+      "seed": 1,
+      "task_idx": 2,
+      "task_classes": [
+        "human computer interaction, wearable computers",
+        "programming, object oriented",
+        "artificial intelligence, knowledge representation",
+        "data structures  algorithms and theory, randomized",
+        "artificial intelligence, machine learning, rule learning"
+      ],
+      "accuracy": 0.827460510328068,
+      "f1": 0.7823204972925915,
+      "pseudo_label_sampling": {
+        "sampled_count": 573,
+        "class_distribution": [
+          196,
+          6,
+          124,
+          200,
+          47
+        ]
+      }
+    },
+    {
+      "split": 0,
+      "seed": 1,
+      "task_idx": 3,
+      "task_classes": [
+        "artificial intelligence, machine learning, case-based",
+        "artificial intelligence, games and search",
+        "databases, temporal",
+        "human computer interaction, graphics and virtual reality",
+        "encryption and compression, security"
+      ],
+      "accuracy": 0.8102025506376594,
+      "f1": 0.7668226999493978,
+      "pseudo_label_sampling": {
+        "sampled_count": 675,
+        "class_distribution": [
+          200,
+          3,
+          111,
+          200,
+          161
+        ]
+      }
+    },
+    {
+      "split": 0,
+      "seed": 1,
+      "task_idx": 4,
+      "task_classes": [
+        "artificial intelligence, machine learning, reinforcement learning",
+        "databases, object oriented",
+        "programming, debugging",
+        "data structures  algorithms and theory, hashing",
+        "data structures  algorithms and theory, sorting"
+      ],
+      "accuracy": 0.6302616609783845,
+      "f1": 0.5066293165596626,
+      "pseudo_label_sampling": {
+        "sampled_count": 708,
+        "class_distribution": [
+          200,
+          104,
+          4,
+          200,
+          200
+        ]
+      }
+    },
+    {
+      "split": 0,
+      "seed": 1,
+      "task_idx": 5,
+      "task_classes": [
+        "artificial intelligence, machine learning, theory",
+        "artificial intelligence, machine learning, neural networks",
+        "human computer interaction, multimedia",
+        "programming, logic",
+        "networking, wireless"
+      ],
+      "accuracy": 0.7022900763358778,
+      "f1": 0.658986985891722,
+      "pseudo_label_sampling": {
+        "sampled_count": 598,
+        "class_distribution": [
+          47,
+          200,
+          172,
+          119,
+          60
+        ]
+      }
+    },
+    {
+      "split": 0,
+      "seed": 1,
+      "task_idx": 6,
+      "task_classes": [
+        "encryption and compression, encryption",
+        "information retrieval, digital library",
+        "operating systems, memory management",
+        "networking, internet",
+        "operating systems, fault tolerance"
+      ],
+      "accuracy": 0.6619190404797601,
+      "f1": 0.5493144144372912,
+      "pseudo_label_sampling": {
+        "sampled_count": 667,
+        "class_distribution": [
+          27,
+          110,
+          200,
+          130,
+          200
+        ]
+      }
+    },
+    {
+      "split": 0,
+      "seed": 1,
+      "task_idx": 7,
+      "task_classes": [
+        "networking, protocols",
+        "information retrieval, filtering",
+        "encryption and compression, compression",
+        "hardware and architecture, logic design",
+        "hardware and architecture, memory structures"
+      ],
+      "accuracy": 0.6835051546391753,
+      "f1": 0.608595434937057,
+      "pseudo_label_sampling": {
+        "sampled_count": 952,
+        "class_distribution": [
+          200,
+          169,
+          200,
+          183,
+          200
+        ]
+      }
+    },
+    {
+      "split": 0,
+      "seed": 1,
+      "task_idx": 8,
+      "task_classes": [
+        "networking, routing",
+        "data structures  algorithms and theory, formal languages",
+        "operating systems, distributed",
+        "hardware and architecture, high performance computing",
+        "artificial intelligence, robotics"
+      ],
+      "accuracy": 0.698371335504886,
+      "f1": 0.6359059937719774,
+      "pseudo_label_sampling": {
+        "sampled_count": 723,
+        "class_distribution": [
+          200,
+          120,
+          200,
+          200,
+          3
+        ]
+      }
+    },
+    {
+      "split": 0,
+      "seed": 1,
+      "task_idx": 9,
+      "task_classes": [
+        "programming, software development",
+        "programming, functional",
+        "human computer interaction, interface design",
+        "artificial intelligence, agents",
+        "programming, garbage collection"
+      ],
+      "accuracy": 0.6167621776504298,
+      "f1": 0.5844453101731139,
+      "pseudo_label_sampling": {
+        "sampled_count": 965,
+        "class_distribution": [
+          200,
+          165,
+          200,
+          200,
+          200
+        ]
+      }
+    },
+    {
+      "split": 0,
+      "seed": 1,
+      "task_idx": 10,
+      "task_classes": [
+        "hardware and architecture, input output and storage",
+        "databases, concurrency",
+        "operating systems, realtime",
+        "artificial intelligence, data mining",
+        "databases, query evaluation"
+      ],
+      "accuracy": 0.5136540962288687,
+      "f1": 0.5085291908835302,
+      "pseudo_label_sampling": {
+        "sampled_count": 738,
+        "class_distribution": [
+          200,
+          133,
+          43,
+          200,
+          162
+        ]
+      }
+    },
+    {
+      "split": 0,
+      "seed": 1,
+      "task_idx": 11,
+      "task_classes": [
+        "artificial intelligence, machine learning, genetic algorithms",
+        "artificial intelligence, planning",
+        "information retrieval, retrieval",
+        "data structures  algorithms and theory, quantum computing",
+        "hardware and architecture, vlsi"
+      ],
+      "accuracy": 0.8246656760772659,
+      "f1": 0.7472854447554944,
+      "pseudo_label_sampling": {
+        "sampled_count": 964,
+        "class_distribution": [
+          200,
+          200,
+          200,
+          200,
+          164
+        ]
+      }
+    },
+    {
+      "split": 0,
+      "seed": 1,
+      "task_idx": 12,
+      "task_classes": [
+        "databases, performance",
+        "databases, deductive",
+        "information retrieval, extraction",
+        "programming, java",
+        "artificial intelligence, speech"
+      ],
+      "accuracy": 0.8238021638330757,
+      "f1": 0.7711715274692974,
+      "pseudo_label_sampling": {
+        "sampled_count": 534,
+        "class_distribution": [
+          13,
+          121,
+          200,
+          0,
+          200
+        ]
+      }
+    },
+    {
+      "split": 1,
+      "seed": 2,
+      "task_idx": 0,
+      "task_classes": [
+        "programming, debugging",
+        "encryption and compression, encryption",
+        "artificial intelligence, machine learning, probabilistic methods",
+        "artificial intelligence, games and search",
+        "programming, compiler design"
+      ],
+      "accuracy": 0.6243875884594448,
+      "f1": 0.547349064888041,
+      "pseudo_label_sampling": {
+        "sampled_count": 434,
+        "class_distribution": [
+          4,
+          27,
+          200,
+          3,
+          200
+        ]
+      }
+    },
+    {
+      "split": 1,
+      "seed": 2,
+      "task_idx": 1,
+      "task_classes": [
+        "programming, functional",
+        "artificial intelligence, speech",
+        "data structures  algorithms and theory, sorting",
+        "artificial intelligence, machine learning, genetic algorithms",
+        "hardware and architecture, logic design"
+      ],
+      "accuracy": 0.8003182179793158,
+      "f1": 0.7654598172382547,
+      "pseudo_label_sampling": {
+        "sampled_count": 948,
+        "class_distribution": [
+          165,
+          200,
+          200,
+          200,
+          183
+        ]
+      }
+    },
+    {
+      "split": 1,
+      "seed": 2,
+      "task_idx": 2,
+      "task_classes": [
+        "encryption and compression, security",
+        "operating systems, realtime",
+        "data structures  algorithms and theory, computational complexity",
+        "artificial intelligence, machine learning, reinforcement learning",
+        "artificial intelligence, nlp"
+      ],
+      "accuracy": 0.5817236255572066,
+      "f1": 0.5466595773108286,
+      "pseudo_label_sampling": {
+        "sampled_count": 637,
+        "class_distribution": [
+          161,
+          43,
+          200,
+          200,
+          33
+        ]
+      }
+    },
+    {
+      "split": 1,
+      "seed": 2,
+      "task_idx": 3,
+      "task_classes": [
+        "programming, java",
+        "operating systems, distributed",
+        "artificial intelligence, robotics",
+        "programming, garbage collection",
+        "information retrieval, extraction"
+      ],
+      "accuracy": 0.785765636232926,
+      "f1": 0.6031914714207344,
+      "pseudo_label_sampling": {
+        "sampled_count": 603,
+        "class_distribution": [
+          0,
+          200,
+          3,
+          200,
+          200
+        ]
+      }
+    },
+    {
+      "split": 1,
+      "seed": 2,
+      "task_idx": 4,
+      "task_classes": [
+        "data structures  algorithms and theory, logic",
+        "databases, query evaluation",
+        "networking, protocols",
+        "operating systems, memory management",
+        "artificial intelligence, knowledge representation"
+      ],
+      "accuracy": 0.737062937062937,
+      "f1": 0.6870183043936089,
+      "pseudo_label_sampling": {
+        "sampled_count": 886,
+        "class_distribution": [
+          200,
+          162,
+          200,
+          200,
+          124
+        ]
+      }
+    },
+    {
+      "split": 1,
+      "seed": 2,
+      "task_idx": 5,
+      "task_classes": [
+        "databases, temporal",
+        "hardware and architecture, vlsi",
+        "artificial intelligence, machine learning, case-based",
+        "artificial intelligence, agents",
+        "databases, performance"
+      ],
+      "accuracy": 0.780466724286949,
+      "f1": 0.6960855651652338,
+      "pseudo_label_sampling": {
+        "sampled_count": 688,
+        "class_distribution": [
+          111,
+          164,
+          200,
+          200,
+          13
+        ]
+      }
+    },
+    {
+      "split": 1,
+      "seed": 2,
+      "task_idx": 6,
+      "task_classes": [
+        "programming, software development",
+        "programming, semantics",
+        "information retrieval, retrieval",
+        "information retrieval, filtering",
+        "data structures  algorithms and theory, quantum computing"
+      ],
+      "accuracy": 0.746268656716418,
+      "f1": 0.6124559767283224,
+      "pseudo_label_sampling": {
+        "sampled_count": 969,
+        "class_distribution": [
+          200,
+          200,
+          200,
+          169,
+          200
+        ]
+      }
+    },
+    {
+      "split": 1,
+      "seed": 2,
+      "task_idx": 7,
+      "task_classes": [
+        "data structures  algorithms and theory, formal languages",
+        "databases, object oriented",
+        "human computer interaction, interface design",
+        "artificial intelligence, data mining",
+        "networking, routing"
+      ],
+      "accuracy": 0.8342541436464088,
+      "f1": 0.8047176853219618,
+      "pseudo_label_sampling": {
+        "sampled_count": 824,
+        "class_distribution": [
+          120,
+          104,
+          200,
+          200,
+          200
+        ]
+      }
+    },
+    {
+      "split": 1,
+      "seed": 2,
+      "task_idx": 8,
+      "task_classes": [
+        "artificial intelligence, vision and pattern recognition",
+        "human computer interaction, multimedia",
+        "databases, deductive",
+        "encryption and compression, compression",
+        "data structures  algorithms and theory, parallel"
+      ],
+      "accuracy": 0.7647790914747977,
+      "f1": 0.7436120996527869,
+      "pseudo_label_sampling": {
+        "sampled_count": 893,
+        "class_distribution": [
+          200,
+          172,
+          121,
+          200,
+          200
+        ]
+      }
+    },
+    {
+      "split": 1,
+      "seed": 2,
+      "task_idx": 9,
+      "task_classes": [
+        "databases, relational",
+        "programming, logic",
+        "data structures  algorithms and theory, randomized",
+        "hardware and architecture, memory structures",
+        "databases, concurrency"
+      ],
+      "accuracy": 0.8079561042524005,
+      "f1": 0.7485248328579462,
+      "pseudo_label_sampling": {
+        "sampled_count": 694,
+        "class_distribution": [
+          42,
+          119,
+          200,
+          200,
+          133
+        ]
+      }
+    },
+    {
+      "split": 1,
+      "seed": 2,
+      "task_idx": 10,
+      "task_classes": [
+        "programming, object oriented",
+        "human computer interaction, graphics and virtual reality",
+        "hardware and architecture, high performance computing",
+        "artificial intelligence, expert systems",
+        "operating systems, fault tolerance"
+      ],
+      "accuracy": 0.7784552845528455,
+      "f1": 0.7007722083601753,
+      "pseudo_label_sampling": {
+        "sampled_count": 629,
+        "class_distribution": [
+          6,
+          200,
+          200,
+          23,
+          200
+        ]
+      }
+    },
+    {
+      "split": 1,
+      "seed": 2,
+      "task_idx": 11,
+      "task_classes": [
+        "artificial intelligence, planning",
+        "hardware and architecture, input output and storage",
+        "artificial intelligence, theorem proving",
+        "data structures  algorithms and theory, computational geometry",
+        "networking, wireless"
+      ],
+      "accuracy": 0.6914986853637161,
+      "f1": 0.5479335368431413,
+      "pseudo_label_sampling": {
+        "sampled_count": 850,
+        "class_distribution": [
+          200,
+          200,
+          190,
+          200,
+          60
+        ]
+      }
+    },
+    {
+      "split": 1,
+      "seed": 2,
+      "task_idx": 12,
+      "task_classes": [
+        "human computer interaction, cooperative",
+        "networking, internet",
+        "information retrieval, digital library",
+        "data structures  algorithms and theory, hashing",
+        "human computer interaction, wearable computers"
+      ],
+      "accuracy": 0.5976190476190476,
+      "f1": 0.47933584940056884,
+      "pseudo_label_sampling": {
+        "sampled_count": 771,
+        "class_distribution": [
+          135,
+          130,
+          110,
+          200,
+          196
+        ]
+      }
+    },
+    {
+      "split": 2,
+      "seed": 4,
+      "task_idx": 0,
+      "task_classes": [
+        "networking, protocols",
+        "hardware and architecture, high performance computing",
+        "databases, deductive",
+        "programming, software development",
+        "hardware and architecture, logic design"
+      ],
+      "accuracy": 0.3845528455284553,
+      "f1": 0.4140937817868493,
+      "pseudo_label_sampling": {
+        "sampled_count": 904,
+        "class_distribution": [
+          200,
+          200,
+          121,
+          200,
+          183
+        ]
+      }
+    },
+    {
+      "split": 2,
+      "seed": 4,
+      "task_idx": 1,
+      "task_classes": [
+        "information retrieval, digital library",
+        "databases, concurrency",
+        "human computer interaction, graphics and virtual reality",
+        "operating systems, memory management",
+        "programming, semantics"
+      ],
+      "accuracy": 0.8602554470323065,
+      "f1": 0.6947730135652936,
+      "pseudo_label_sampling": {
+        "sampled_count": 843,
+        "class_distribution": [
+          110,
+          133,
+          200,
+          200,
+          200
+        ]
+      }
+    },
+    {
+      "split": 2,
+      "seed": 4,
+      "task_idx": 2,
+      "task_classes": [
+        "programming, debugging",
+        "networking, routing",
+        "data structures  algorithms and theory, sorting",
+        "databases, object oriented",
+        "operating systems, distributed"
+      ],
+      "accuracy": 0.7175018155410312,
+      "f1": 0.67083929237243,
+      "pseudo_label_sampling": {
+        "sampled_count": 708,
+        "class_distribution": [
+          4,
+          200,
+          200,
+          104,
+          200
+        ]
+      }
+    },
+    {
+      "split": 2,
+      "seed": 4,
+      "task_idx": 3,
+      "task_classes": [
+        "data structures  algorithms and theory, formal languages",
+        "operating systems, realtime",
+        "human computer interaction, interface design",
+        "human computer interaction, wearable computers",
+        "human computer interaction, cooperative"
+      ],
+      "accuracy": 0.5030674846625767,
+      "f1": 0.3491808845102943,
+      "pseudo_label_sampling": {
+        "sampled_count": 694,
+        "class_distribution": [
+          120,
+          43,
+          200,
+          196,
+          135
+        ]
+      }
+    },
+    {
+      "split": 2,
+      "seed": 4,
+      "task_idx": 4,
+      "task_classes": [
+        "data structures  algorithms and theory, logic",
+        "encryption and compression, security",
+        "databases, relational",
+        "artificial intelligence, agents",
+        "programming, garbage collection"
+      ],
+      "accuracy": 0.8419889502762431,
+      "f1": 0.7731592087516075,
+      "pseudo_label_sampling": {
+        "sampled_count": 803,
+        "class_distribution": [
+          200,
+          161,
+          42,
+          200,
+          200
+        ]
+      }
+    },
+    {
+      "split": 2,
+      "seed": 4,
+      "task_idx": 5,
+      "task_classes": [
+        "hardware and architecture, memory structures",
+        "artificial intelligence, expert systems",
+        "artificial intelligence, machine learning, probabilistic methods",
+        "databases, query evaluation",
+        "artificial intelligence, machine learning, neural networks"
+      ],
+      "accuracy": 0.5309446254071661,
+      "f1": 0.5005531220786816,
+      "pseudo_label_sampling": {
+        "sampled_count": 785,
+        "class_distribution": [
+          200,
+          23,
+          200,
+          162,
+          200
+        ]
+      }
+    },
+    {
+      "split": 2,
+      "seed": 4,
+      "task_idx": 6,
+      "task_classes": [
+        "programming, logic",
+        "artificial intelligence, speech",
+        "data structures  algorithms and theory, quantum computing",
+        "data structures  algorithms and theory, hashing",
+        "programming, java"
+      ],
+      "accuracy": 0.8372365339578455,
+      "f1": 0.7583978297775043,
+      "pseudo_label_sampling": {
+        "sampled_count": 719,
+        "class_distribution": [
+          119,
+          200,
+          200,
+          200,
+          0
+        ]
+      }
+    },
+    {
+      "split": 2,
+      "seed": 4,
+      "task_idx": 7,
+      "task_classes": [
+        "information retrieval, filtering",
+        "operating systems, fault tolerance",
+        "data structures  algorithms and theory, computational geometry",
+        "artificial intelligence, machine learning, rule learning",
+        "artificial intelligence, nlp"
+      ],
+      "accuracy": 0.49160671462829736,
+      "f1": 0.49224981381656985,
+      "pseudo_label_sampling": {
+        "sampled_count": 649,
+        "class_distribution": [
+          169,
+          200,
+          200,
+          47,
+          33
+        ]
+      }
+    },
+    {
+      "split": 2,
+      "seed": 4,
+      "task_idx": 8,
+      "task_classes": [
+        "networking, wireless",
+        "human computer interaction, multimedia",
+        "hardware and architecture, vlsi",
+        "programming, compiler design",
+        "programming, object oriented"
+      ],
+      "accuracy": 0.6190095846645367,
+      "f1": 0.5089616557157581,
+      "pseudo_label_sampling": {
+        "sampled_count": 602,
+        "class_distribution": [
+          60,
+          172,
+          164,
+          200,
+          6
+        ]
+      }
+    },
+    {
+      "split": 2,
+      "seed": 4,
+      "task_idx": 9,
+      "task_classes": [
+        "artificial intelligence, theorem proving",
+        "artificial intelligence, machine learning, genetic algorithms",
+        "artificial intelligence, machine learning, theory",
+        "artificial intelligence, vision and pattern recognition",
+        "data structures  algorithms and theory, parallel"
+      ],
+      "accuracy": 0.8731778425655977,
+      "f1": 0.8641564471055496,
+      "pseudo_label_sampling": {
+        "sampled_count": 837,
+        "class_distribution": [
+          190,
+          200,
+          47,
+          200,
+          200
+        ]
+      }
+    },
+    {
+      "split": 2,
+      "seed": 4,
+      "task_idx": 10,
+      "task_classes": [
+        "encryption and compression, compression",
+        "databases, temporal",
+        "artificial intelligence, robotics",
+        "artificial intelligence, games and search",
+        "information retrieval, extraction"
+      ],
+      "accuracy": 0.41823899371069184,
+      "f1": 0.40183087267849177,
+      "pseudo_label_sampling": {
+        "sampled_count": 517,
+        "class_distribution": [
+          200,
+          111,
+          3,
+          3,
+          200
+        ]
+      }
+    },
+    {
+      "split": 2,
+      "seed": 4,
+      "task_idx": 11,
+      "task_classes": [
+        "networking, internet",
+        "data structures  algorithms and theory, computational complexity",
+        "encryption and compression, encryption",
+        "data structures  algorithms and theory, randomized",
+        "artificial intelligence, data mining"
+      ],
+      "accuracy": 0.5453834115805947,
+      "f1": 0.560626253493752,
+      "pseudo_label_sampling": {
+        "sampled_count": 757,
+        "class_distribution": [
+          130,
+          200,
+          27,
+          200,
+          200
+        ]
+      }
+    },
+    {
+      "split": 2,
+      "seed": 4,
+      "task_idx": 12,
+      "task_classes": [
+        "artificial intelligence, knowledge representation",
+        "artificial intelligence, machine learning, case-based",
+        "artificial intelligence, machine learning, reinforcement learning",
+        "programming, functional",
+        "information retrieval, retrieval"
+      ],
+      "accuracy": 0.8742565845369583,
+      "f1": 0.8710376189579053,
+      "pseudo_label_sampling": {
+        "sampled_count": 889,
+        "class_distribution": [
+          124,
+          200,
+          200,
+          165,
+          200
+        ]
+      }
+    },
+    {
+      "split": 3,
+      "seed": 8,
+      "task_idx": 0,
+      "task_classes": [
+        "data structures  algorithms and theory, computational complexity",
+        "human computer interaction, graphics and virtual reality",
+        "artificial intelligence, agents",
+        "data structures  algorithms and theory, formal languages",
+        "databases, concurrency"
+      ],
+      "accuracy": 0.5975994946304485,
+      "f1": 0.5830306674349017,
+      "pseudo_label_sampling": {
+        "sampled_count": 853,
+        "class_distribution": [
+          200,
+          200,
+          200,
+          120,
+          133
+        ]
+      }
+    },
+    {
+      "split": 3,
+      "seed": 8,
+      "task_idx": 1,
+      "task_classes": [
+        "operating systems, distributed",
+        "programming, compiler design",
+        "hardware and architecture, logic design",
+        "data structures  algorithms and theory, parallel",
+        "networking, routing"
+      ],
+      "accuracy": 0.7247557003257329,
+      "f1": 0.7126665264218394,
+      "pseudo_label_sampling": {
+        "sampled_count": 983,
+        "class_distribution": [
+          200,
+          200,
+          183,
+          200,
+          200
+        ]
+      }
+    },
+    {
+      "split": 3,
+      "seed": 8,
+      "task_idx": 2,
+      "task_classes": [
+        "artificial intelligence, machine learning, reinforcement learning",
+        "information retrieval, filtering",
+        "databases, deductive",
+        "artificial intelligence, machine learning, theory",
+        "data structures  algorithms and theory, logic"
+      ],
+      "accuracy": 0.8709677419354839,
+      "f1": 0.8074585779394132,
+      "pseudo_label_sampling": {
+        "sampled_count": 737,
+        "class_distribution": [
+          200,
+          169,
+          121,
+          47,
+          200
+        ]
+      }
+    },
+    {
+      "split": 3,
+      "seed": 8,
+      "task_idx": 3,
+      "task_classes": [
+        "encryption and compression, encryption",
+        "human computer interaction, interface design",
+        "human computer interaction, cooperative",
+        "operating systems, fault tolerance",
+        "hardware and architecture, input output and storage"
+      ],
+      "accuracy": 0.5622317596566524,
+      "f1": 0.4830604303487222,
+      "pseudo_label_sampling": {
+        "sampled_count": 762,
+        "class_distribution": [
+          27,
+          200,
+          135,
+          200,
+          200
+        ]
+      }
+    },
+    {
+      "split": 3,
+      "seed": 8,
+      "task_idx": 4,
+      "task_classes": [
+        "operating systems, realtime",
+        "programming, functional",
+        "encryption and compression, compression",
+        "artificial intelligence, machine learning, rule learning",
+        "hardware and architecture, memory structures"
+      ],
+      "accuracy": 0.7182692307692308,
+      "f1": 0.713111147266132,
+      "pseudo_label_sampling": {
+        "sampled_count": 655,
+        "class_distribution": [
+          43,
+          165,
+          200,
+          47,
+          200
+        ]
+      }
+    },
+    {
+      "split": 3,
+      "seed": 8,
+      "task_idx": 5,
+      "task_classes": [
+        "data structures  algorithms and theory, hashing",
+        "artificial intelligence, games and search",
+        "human computer interaction, wearable computers",
+        "hardware and architecture, high performance computing",
+        "data structures  algorithms and theory, computational geometry"
+      ],
+      "accuracy": 0.4940867279894875,
+      "f1": 0.442584744925737,
+      "pseudo_label_sampling": {
+        "sampled_count": 799,
+        "class_distribution": [
+          200,
+          3,
+          196,
+          200,
+          200
+        ]
+      }
+    },
+    {
+      "split": 3,
+      "seed": 8,
+      "task_idx": 6,
+      "task_classes": [
+        "programming, garbage collection",
+        "artificial intelligence, knowledge representation",
+        "artificial intelligence, machine learning, genetic algorithms",
+        "programming, logic",
+        "artificial intelligence, machine learning, neural networks"
+      ],
+      "accuracy": 0.7648017381857686,
+      "f1": 0.7188489173338709,
+      "pseudo_label_sampling": {
+        "sampled_count": 843,
+        "class_distribution": [
+          200,
+          124,
+          200,
+          119,
+          200
+        ]
+      }
+    },
+    {
+      "split": 3,
+      "seed": 8,
+      "task_idx": 7,
+      "task_classes": [
+        "programming, object oriented",
+        "databases, performance",
+        "data structures  algorithms and theory, sorting",
+        "databases, temporal",
+        "artificial intelligence, vision and pattern recognition"
+      ],
+      "accuracy": 0.8266129032258065,
+      "f1": 0.6541082439497468,
+      "pseudo_label_sampling": {
+        "sampled_count": 530,
+        "class_distribution": [
+          6,
+          13,
+          200,
+          111,
+          200
+        ]
+      }
+    },
+    {
+      "split": 3,
+      "seed": 8,
+      "task_idx": 8,
+      "task_classes": [
+        "networking, protocols",
+        "artificial intelligence, robotics",
+        "programming, semantics",
+        "programming, debugging",
+        "networking, wireless"
+      ],
+      "accuracy": 0.45161290322580644,
+      "f1": 0.3999390045543266,
+      "pseudo_label_sampling": {
+        "sampled_count": 467,
+        "class_distribution": [
+          200,
+          3,
+          200,
+          4,
+          60
+        ]
+      }
+    },
+    {
+      "split": 3,
+      "seed": 8,
+      "task_idx": 9,
+      "task_classes": [
+        "artificial intelligence, nlp",
+        "encryption and compression, security",
+        "information retrieval, retrieval",
+        "programming, java",
+        "operating systems, memory management"
+      ],
+      "accuracy": 0.6642174871418075,
+      "f1": 0.5287643374092182,
+      "pseudo_label_sampling": {
+        "sampled_count": 594,
+        "class_distribution": [
+          33,
+          161,
+          200,
+          0,
+          200
+        ]
+      }
+    },
+    {
+      "split": 3,
+      "seed": 8,
+      "task_idx": 10,
+      "task_classes": [
+        "databases, query evaluation",
+        "programming, software development",
+        "artificial intelligence, data mining",
+        "hardware and architecture, vlsi",
+        "data structures  algorithms and theory, randomized"
+      ],
+      "accuracy": 0.6602564102564102,
+      "f1": 0.6511456890237317,
+      "pseudo_label_sampling": {
+        "sampled_count": 926,
+        "class_distribution": [
+          162,
+          200,
+          200,
+          164,
+          200
+        ]
+      }
+    },
+    {
+      "split": 3,
+      "seed": 8,
+      "task_idx": 11,
+      "task_classes": [
+        "artificial intelligence, planning",
+        "databases, relational",
+        "networking, internet",
+        "artificial intelligence, speech",
+        "artificial intelligence, machine learning, probabilistic methods"
+      ],
+      "accuracy": 0.7710084033613446,
+      "f1": 0.7588791521627716,
+      "pseudo_label_sampling": {
+        "sampled_count": 772,
+        "class_distribution": [
+          200,
+          42,
+          130,
+          200,
+          200
+        ]
+      }
+    },
+    {
+      "split": 3,
+      "seed": 8,
+      "task_idx": 12,
+      "task_classes": [
+        "artificial intelligence, machine learning, case-based",
+        "artificial intelligence, expert systems",
+        "human computer interaction, multimedia",
+        "data structures  algorithms and theory, quantum computing",
+        "artificial intelligence, theorem proving"
+      ],
+      "accuracy": 0.597621407333994,
+      "f1": 0.4833296367979293,
+      "pseudo_label_sampling": {
+        "sampled_count": 785,
+        "class_distribution": [
+          200,
+          23,
+          172,
+          200,
+          190
+        ]
+      }
+    },
+    {
+      "split": 4,
+      "seed": 16,
+      "task_idx": 0,
+      "task_classes": [
+        "artificial intelligence, knowledge representation",
+        "databases, temporal",
+        "artificial intelligence, vision and pattern recognition",
+        "databases, query evaluation",
+        "artificial intelligence, machine learning, rule learning"
+      ],
+      "accuracy": 0.802827965435978,
+      "f1": 0.6978363584965871,
+      "pseudo_label_sampling": {
+        "sampled_count": 644,
+        "class_distribution": [
+          124,
+          111,
+          200,
+          162,
+          47
+        ]
+      }
+    },
+    {
+      "split": 4,
+      "seed": 16,
+      "task_idx": 1,
+      "task_classes": [
+        "artificial intelligence, machine learning, genetic algorithms",
+        "programming, compiler design",
+        "programming, object oriented",
+        "artificial intelligence, machine learning, neural networks",
+        "artificial intelligence, games and search"
+      ],
+      "accuracy": 0.716852010265184,
+      "f1": 0.629477997563658,
+      "pseudo_label_sampling": {
+        "sampled_count": 609,
+        "class_distribution": [
+          200,
+          200,
+          6,
+          200,
+          3
+        ]
+      }
+    },
+    {
+      "split": 4,
+      "seed": 16,
+      "task_idx": 2,
+      "task_classes": [
+        "information retrieval, extraction",
+        "databases, performance",
+        "networking, internet",
+        "artificial intelligence, nlp",
+        "data structures  algorithms and theory, quantum computing"
+      ],
+      "accuracy": 0.46106870229007635,
+      "f1": 0.5058766188239063,
+      "pseudo_label_sampling": {
+        "sampled_count": 576,
+        "class_distribution": [
+          200,
+          13,
+          130,
+          33,
+          200
+        ]
+      }
+    },
+    {
+      "split": 4,
+      "seed": 16,
+      "task_idx": 3,
+      "task_classes": [
+        "databases, concurrency",
+        "databases, relational",
+        "hardware and architecture, high performance computing",
+        "data structures  algorithms and theory, logic",
+        "hardware and architecture, vlsi"
+      ],
+      "accuracy": 0.488929889298893,
+      "f1": 0.47621707017933124,
+      "pseudo_label_sampling": {
+        "sampled_count": 739,
+        "class_distribution": [
+          133,
+          42,
+          200,
+          200,
+          164
+        ]
+      }
+    },
+    {
+      "split": 4,
+      "seed": 16,
+      "task_idx": 4,
+      "task_classes": [
+        "encryption and compression, compression",
+        "artificial intelligence, machine learning, case-based",
+        "data structures  algorithms and theory, formal languages",
+        "programming, java",
+        "encryption and compression, encryption"
+      ],
+      "accuracy": 0.7054735013032146,
+      "f1": 0.6762290574401671,
+      "pseudo_label_sampling": {
+        "sampled_count": 547,
+        "class_distribution": [
+          200,
+          200,
+          120,
+          0,
+          27
+        ]
+      }
+    },
+    {
+      "split": 4,
+      "seed": 16,
+      "task_idx": 5,
+      "task_classes": [
+        "operating systems, realtime",
+        "artificial intelligence, machine learning, theory",
+        "artificial intelligence, expert systems",
+        "data structures  algorithms and theory, randomized",
+        "artificial intelligence, planning"
+      ],
+      "accuracy": 0.7471830985915493,
+      "f1": 0.6583432264987162,
+      "pseudo_label_sampling": {
+        "sampled_count": 513,
+        "class_distribution": [
+          43,
+          47,
+          23,
+          200,
+          200
+        ]
+      }
+    },
+    {
+      "split": 4,
+      "seed": 16,
+      "task_idx": 6,
+      "task_classes": [
+        "artificial intelligence, machine learning, probabilistic methods",
+        "data structures  algorithms and theory, parallel",
+        "human computer interaction, interface design",
+        "information retrieval, digital library",
+        "information retrieval, retrieval"
+      ],
+      "accuracy": 0.8107142857142857,
+      "f1": 0.6812606399544322,
+      "pseudo_label_sampling": {
+        "sampled_count": 910,
+        "class_distribution": [
+          200,
+          200,
+          200,
+          110,
+          200
+        ]
+      }
+    },
+    {
+      "split": 4,
+      "seed": 16,
+      "task_idx": 7,
+      "task_classes": [
+        "programming, logic",
+        "databases, object oriented",
+        "hardware and architecture, logic design",
+        "programming, software development",
+        "human computer interaction, graphics and virtual reality"
+      ],
+      "accuracy": 0.5656689065363469,
+      "f1": 0.5556506888657781,
+      "pseudo_label_sampling": {
+        "sampled_count": 806,
+        "class_distribution": [
+          119,
+          104,
+          183,
+          200,
+          200
+        ]
+      }
+    },
+    {
+      "split": 4,
+      "seed": 16,
+      "task_idx": 8,
+      "task_classes": [
+        "operating systems, distributed",
+        "operating systems, fault tolerance",
+        "networking, protocols",
+        "artificial intelligence, data mining",
+        "information retrieval, filtering"
+      ],
+      "accuracy": 0.4836193447737909,
+      "f1": 0.4357554928466671,
+      "pseudo_label_sampling": {
+        "sampled_count": 969,
+        "class_distribution": [
+          200,
+          200,
+          200,
+          200,
+          169
+        ]
+      }
+    },
+    {
+      "split": 4,
+      "seed": 16,
+      "task_idx": 9,
+      "task_classes": [
+        "hardware and architecture, input output and storage",
+        "artificial intelligence, machine learning, reinforcement learning",
+        "operating systems, memory management",
+        "data structures  algorithms and theory, hashing",
+        "data structures  algorithms and theory, computational geometry"
+      ],
+      "accuracy": 0.6604886267902275,
+      "f1": 0.5363812573171064,
+      "pseudo_label_sampling": {
+        "sampled_count": 1000,
+        "class_distribution": [
+          200,
+          200,
+          200,
+          200,
+          200
+        ]
+      }
+    },
+    {
+      "split": 4,
+      "seed": 16,
+      "task_idx": 10,
+      "task_classes": [
+        "data structures  algorithms and theory, computational complexity",
+        "programming, semantics",
+        "programming, garbage collection",
+        "hardware and architecture, memory structures",
+        "artificial intelligence, speech"
+      ],
+      "accuracy": 0.8927038626609443,
+      "f1": 0.8533952897032103,
+      "pseudo_label_sampling": {
+        "sampled_count": 1000,
+        "class_distribution": [
+          200,
+          200,
+          200,
+          200,
+          200
+        ]
+      }
+    },
+    {
+      "split": 4,
+      "seed": 16,
+      "task_idx": 11,
+      "task_classes": [
+        "artificial intelligence, theorem proving",
+        "human computer interaction, multimedia",
+        "human computer interaction, cooperative",
+        "networking, wireless",
+        "data structures  algorithms and theory, sorting"
+      ],
+      "accuracy": 0.6421568627450981,
+      "f1": 0.5433391532137237,
+      "pseudo_label_sampling": {
+        "sampled_count": 757,
+        "class_distribution": [
+          190,
+          172,
+          135,
+          60,
+          200
+        ]
+      }
+    },
+    {
+      "split": 4,
+      "seed": 16,
+      "task_idx": 12,
+      "task_classes": [
+        "artificial intelligence, agents",
+        "databases, deductive",
+        "artificial intelligence, robotics",
+        "networking, routing",
+        "encryption and compression, security"
+      ],
+      "accuracy": 0.6116951379763469,
+      "f1": 0.6512760291196964,
+      "pseudo_label_sampling": {
+        "sampled_count": 685,
+        "class_distribution": [
+          200,
+          121,
+          3,
+          200,
+          161
+        ]
+      }
+    }
+  ],
+  "hyperparameters": {
+    "prompt_template": "a ",
+    "max_samples_per_class": 200,
+    "prompt_length": 4,
+    "learning_rate": 0.01,
+    "max_epochs": 50,
+    "early_stopping_patience": 10
+  }
+}
